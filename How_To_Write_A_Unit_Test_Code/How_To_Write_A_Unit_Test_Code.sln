@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How_To_Write_A_Unit_Test_Code", "How_To_Write_A_Unit_Test_Code.csproj", "{F216231B-5043-455F-AAF4-31951D62C445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How_To_Write_A_Unit_Test_CodeTests", "..\How_To_Write_A_Unit_Test_CodeTests\How_To_Write_A_Unit_Test_CodeTests.csproj", "{8C23CD85-8CFB-449F-8C42-336E1EAC5978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F216231B-5043-455F-AAF4-31951D62C445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F216231B-5043-455F-AAF4-31951D62C445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F216231B-5043-455F-AAF4-31951D62C445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F216231B-5043-455F-AAF4-31951D62C445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C23CD85-8CFB-449F-8C42-336E1EAC5978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C23CD85-8CFB-449F-8C42-336E1EAC5978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C23CD85-8CFB-449F-8C42-336E1EAC5978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C23CD85-8CFB-449F-8C42-336E1EAC5978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
